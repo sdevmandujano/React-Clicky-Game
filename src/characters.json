@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Gohan",
+    "image": "./images/gohan.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 2,
+    "name": "Kid Buu",
+    "image": "./images/buu.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 3,
+    "name": "Vegeta",
+    "image": "./images/vegeta.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 4,
+    "name": "Freezer",
+    "image": "./images/freezer.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 5,
+    "name": "Android 18 & 17",
+    "image": "./images/android18.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 6,
+    "name": "Zamasu",
+    "image": "./images/zamasu.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 7,
+    "name": "Goku",
+    "image": "./images/goku.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 8,
+    "name": "Cell",
+    "image": "./images/cell.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 9,
+    "name": "Android 21",
+    "image": "./images/android21.jpg",
+    "clicked": "false"
+  }
+]

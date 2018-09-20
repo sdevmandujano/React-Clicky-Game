@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#nav {
+  background: #ff7b25 !important;
+  position: fixed;
+  width: 100%;
+  top: 0%;
+  z-index: 99;
+  white-space: nowrap;
+  min-height: 60px;
+}
+
+a {
+  color: white !important;
+}
+
+#Jumbotron {
+  background-image: url("./shen.png") !important;
+  background-repeat: repeat;
+  color: #ff7b25;
+  height: 300px !important;
+}
+
+.footer {
+  background: #ff7b25 !important;
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  bottom: 0%;
+  overflow: auto;
+  display: block;
+}
+
+.bottom {
+  height: 38px;
+  width: 100%;
+  background: #ff7b25 !important;
+  position: absolute;
+  bottom: 0%;
+  display: block;
+  color: white !important;
+  text-align: left;
+  padding: 0.5%;
+}
