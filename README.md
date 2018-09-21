@@ -1,9 +1,9 @@
 # React-Clicky-Game
-A Dragon Ball Theme Clicky Game using React
+A Dragon Ball Theme Clicky Game using React, Deployed with Heroku
 
 ![](images/dragon.PNG)
 
 Try It:
 https://tranquil-temple-71748.herokuapp.com/
 
-Implemented Technologies: React
+Implemented Technologies: React & Heroku
