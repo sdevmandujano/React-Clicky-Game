@@ -1,5 +1,5 @@
 # React-Clicky-Game
-A Dragon Ball Theme Clicky Game using React, Deployed  Heroku
+A Dragon Ball Theme Clicky Game using React, Deployed with Heroku
 
 ![](images/dragon.PNG)
 
